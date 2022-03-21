@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
-**Tizianopatella/Tizianopatella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there 
+My name is Tiziano Patella and I from to 4tr year comission B
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
